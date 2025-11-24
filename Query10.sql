@@ -1,4 +1,0 @@
-BEGIN;
-DELETE FROM Venues
-WHERE venue_id = 999;
-ROLLBACK;
